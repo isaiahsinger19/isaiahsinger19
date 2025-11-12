@@ -36,6 +36,6 @@ Regression-based exploration of how power, brand, and maintenance factors shape 
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/isaiah-singer-901j9)
-- [Email](isaiahsinger19@gmail.com)
+- Email: isaiahsinger19@gmail.com
 - Located in California, USA  
 - He/Him  
