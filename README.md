@@ -1,7 +1,7 @@
 # Hey, I'm Isaiah, otherwise known as Zi, 
 
 I'm a data analyst who enjoys reading and analyzing numbers.  
-Graduated with a B.S. in Statistics & Data Science from UC Santa Barbara,  
+Graduated with a **B.S. in Statistics & Data Science** from **UC Santa Barbara**,  
 I spend some of my time experimenting with data models and visualizations,  
 while I spend the rest of it reading, watching shows, and enjoying nature. 
 
