@@ -5,10 +5,10 @@ Early-career data analyst with a background in Statistics & Data Science (UC San
 ---
 
 ## 🌐 About Me
-- Currently learning advanced model tuning and cloud analytics (Azure, Python pipelines)  
-- Always looking to collaborate on open data analysis or visualization projects  
-- Passionate about turning messy datasets into clear, evidence-based insights  
-- Fun fact: I built my first regression model before learning to drive(I still can't....)  
+- Experience supporting operational planning and performance analysis  
+- Strong interest in business analytics, revenue performance, and decision-support reporting 
+- Passionate about transforming complex datasets into actionable insights  
+- Fun fact: I built my first regression model before learning to drive 
 
 ---
 
