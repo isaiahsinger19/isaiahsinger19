@@ -1,9 +1,6 @@
-# Hey, I'm Isaiah, otherwise known as Zi, 
+# Isaiah Singer | Data Analyst
 
-I'm a data analyst who enjoys reading and analyzing numbers.  
-Graduated with a **B.S. in Statistics & Data Science** from **UC Santa Barbara**,  
-I spend some of my time experimenting with data models and visualizations,  
-while I spend the rest of it reading, watching shows, and enjoying nature. 
+Early-career data analyst with a background in Statistics & Data Science (UC Santa Barbara). Experienced in building forecasting models, KPI dashboards, and performance analyses to support operational and strategic decision-making. Skilled in Python, SQL, R, and BI tools, with a focus on translating data into measurable business impact. 
 
 ---
 
